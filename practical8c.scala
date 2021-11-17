@@ -6,7 +6,7 @@ object character
     {
       
         // Applying toCharArray method
-        val result = "KashishMirza".toCharArray()
+        val result = "Pallavi".toCharArray()
           
         for(m1<-result)
         {
