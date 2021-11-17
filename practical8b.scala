@@ -1,7 +1,7 @@
 object Scala_String {
 
   def main(args: Array[String]): Unit = {
-    val str = "My name is Kashish Mirza";
+    val str = "My name is Pallavi Khurana";
 
     // Convert the above string to all lowercase.
     val lowerStr = str.toLowerCase();
